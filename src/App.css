@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.filterText {
+  font-size: large;
+  font-weight: bold;
+}
+.socialIcon {
+  height: 50px;
+  width: 100px;
+}
+
